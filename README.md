@@ -25,5 +25,5 @@ This project explores the use of **MongoDB, Redis, Neo4j, and SQL** to optimize 
 - **SQL** – Relational database for **structured data storage**, **efficient queries**, and **transactional consistency**  
 
 ## 🔗 Project Report & Code  
-- [Final Report](link-to-your-report)  
-- [Code Repository](link-to-your-code)  
+- [Final Report](https://github.com/mcheung-cal/delivery-optimization/blob/master/Optimizing%20Delivery.pdf)  
+- [Code Repository](https://github.com/mcheung-cal/delivery-optimization/blob/master/Final_Code.ipynb)  
