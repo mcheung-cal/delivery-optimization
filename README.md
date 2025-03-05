@@ -26,4 +26,12 @@ This project explores the use of **MongoDB, Redis, Neo4j, and SQL** to optimize 
 
 ## 🔗 Project Report & Code  
 - [Final Report](https://github.com/mcheung-cal/delivery-optimization/blob/master/Optimizing%20Delivery.pdf)  
-- [Code Repository](https://github.com/mcheung-cal/delivery-optimization/blob/master/Final_Code.ipynb)  
+- [Code Repository](https://github.com/mcheung-cal/delivery-optimization/blob/master/Final_Code.ipynb)
+
+## 👥 Contributors  
+- **Michelle Cheung** 
+- **Daniel Bostwick** 
+- **Ethan Wang** 
+- **Nikita Chauhan**
+
+
